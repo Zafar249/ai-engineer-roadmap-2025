@@ -1,2 +1,4 @@
 Github is a website that allows you to store code on the cloud.
 It is a version control system powered by git.
+
+It is a distributed version control system
