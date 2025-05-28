@@ -1,0 +1,15 @@
+Version control, also known as source control, is a method of tracking and managing changes made to files
+over time.
+
+Git is a distributed version control system. In Git there are many local repositeries which are 
+synced with remote repositeries. Every developed has a copy of that repository on their machine.
+There is no central server which stores only one repository 
+
+github has three benefits over storing files locally:
+1. Code is stored on cloud and synced locally
+2. If multiple people are working on the same code, they can work on their own computers using code from
+   the cloud and push changes using merge tools
+3. VCS mantains version history so it is possible to revert to a previous version of a code anytime
+   you want.
+
+

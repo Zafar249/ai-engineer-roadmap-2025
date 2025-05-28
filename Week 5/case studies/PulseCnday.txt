@@ -1,0 +1,42 @@
+Introduction: Case Study regarding the rise of Pulse Candy from 0 to 100 crore
+Pulse currently commands 16% of the market share.
+
+1. Problem: Hard Boiled Candies have a  very competitive market where 90% of new candies launched fail 
+within a year due to low barrier of entry, , variety of flavors along India
+
+Solution: The DS group spent 2 years in R&D and learning about the market. They cracked the code 
+for the versatility of the flavours in flavours and found raw mango with a sour and sweet flavour to be
+loved universely across India. 
+
+2. Problem: lack of customer loyalty as customer purchased candy for flavour not for brand.
+
+Solution: They gained customer loyalty for flavours by sensory specific satiety:
+They used multiple flavours within a candy to keep the initial thrill of eating the candy and enjoy the
+taste until the end(using a masala within a raw mango candy).
+
+3. Problem: Due to Inflexible(rigid) prices and bad unit economics. 
+HBC have a very low profit margin, and rise in cost of ingredients(sugar) cannot be offset by an increase
+in price as price itself is very low(1 ruppee) as compared to chocolate.
+
+Solution: The DS group launched the candy at a 1 ruppe price(double the price of other candies) 
+as it was a new product so it had no price prior to being launched. In addition, due to inflation
+they would be forced to increase the price at a later point so it was better to launch it at a higher 
+(good) price initially than be forced to later and face potential customer backlash and at a loss.
+Finally, the 50 paise coin was going out of circulation so the price difference didn't matter as much
+to the customer but it was double the profit for the DS group
+
+4. Due to their extensive distribution groups, they could reach stores all across India.
+
+5. They convinced smoking shops to recommend Pulse candy to smokers(who were already using candies to
+mask their smell of smoking).
+Outcome: Most smokers began buying 10-30 candies at a time.
+
+6. Always perfect your product before launching it in the market( The DS group spent 2 years in 
+research and development)
+
+7. Intelligent Disruption(Although they added more flavours they smartly priced their product)
+
+Final Lessons: Just like Pulse spent time perfecting their product, spend time properly training AI
+models. Ensure customer gets a proper model on time rather than a poor model fast. Moreover, just like
+Pulse research a creative way to make their candies stand out from their competitors, train your model
+on unique datasets to achieve different results from your competitors.

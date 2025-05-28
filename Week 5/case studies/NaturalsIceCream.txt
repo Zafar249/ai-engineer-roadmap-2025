@@ -1,0 +1,34 @@
+1.
+Problem: Kamil Wanted to sell Ice cream, an unfamiliar dessert in India at the time
+Solution: Anchor Innovate Adoption Model: To introduce Ice cream(an unfamiliar product) naturals first
+launched it alongside familiar desserts(anchors) using existing customer trust to derive adoption
+Outcome: Customers began to learn about and enjoy Ice cream, growing their reputation and customer base.
+By the end of the 1st weekend, over 1000 cups were sold.
+
+2. Problem: Competition with International and Local Brands who had much more funding, 
+distribution(threat) capability and recognition. 
+Solution: Kamil recognised that by mass producing ice creams, fresh fruits and milk fat would not be used
+as they would require a long shelf life(>14 days) and would be too expensive.
+So Nautrals freshness would be a strength
+There is no need to undercut your price, do everything your competitor does and be wherever he is.
+
+3. Problem: How do you expand the business without losing what makes your product unique?
+Solution: Keep core flavours for nostalgia and introduce time-limited new flavours
+for special occasions. Loyalty of Customer is most important.
+Outcome: Naturals has over 150 ice creams brands in India Today.
+
+4. You don't need to scale fast you need to scale right(Naturals expanded slowly city by city)
+
+5. Protect your edge(differentiation) even if it screws you down
+(Naturals never sacrificed freshness for convinience)
+
+6. Your back end should be as good as your friend end(for each flavour there were data and logistics
+behind it. Naturals tracked flavour demand using sale data and adjusted milk and fruit procurement
+daily to minimize demand(cost leadership))
+
+Tips for future case studies:
+Give Introduction
+Add data like market share and customer retention rates
+Compare Stratergies with competitors
+Lessons for AI engineers: Just like naturals uses data for flavour logistics, AI engineers can optimize
+supply chains with predictive analysis
