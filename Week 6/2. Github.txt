@@ -1,4 +1,12 @@
 Github is a website that allows you to store code on the cloud.
-It is a version control system powered by git.
+It is a distributed version control system powered by git.
+Github is used in open source projects
 
-It is a distributed version control system
+Forking a repository is basically copying a repository to one's own private space(repository).
+After syncing it up to his local computer and making changes, the person will make a pull request.
+The person will ask the owner of the original repository to pull the changes into the repositery
+The owner will do a code review and if the changes are satisfactory he will accept the pull request.
+
+Issues allow you to track problems with the code.
+Wiki allows you to write documentation about the code.
+Pulse and graphs will give you different statistics.

@@ -1,0 +1,15 @@
+
+Altering table to add new column(s)
+ALTER TABLE mytable
+ADD column DataType OptionalTableConstraint 
+    DEFAULT default_value;
+
+
+Altering table to remove column(s)
+ALTER TABLE mytable
+DROP column_to_be_deleted;
+
+
+Altering table name
+ALTER TABLE mytable
+RENAME TO new_table_name;

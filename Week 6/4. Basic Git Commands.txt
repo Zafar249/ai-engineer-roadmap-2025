@@ -1,0 +1,33 @@
+In order to clone a repository:
+git clone {repository link}
+
+In order to output a list of directories:
+ls
+
+In order to change directories:
+cd {directory name(e.g: test)}
+
+In order to clear terminal:
+clear 
+
+In order to get a status of your git repository:
+git status
+
+In order to add a file from the local computer to a staging area(An area which contains file which you are
+ready to commit):
+git add {file name(e.g: test.py)}
+
+
+In order to commit files(push files from staging area to version control system locally):
+git commit -m {message to commit in addition to files}
+
+In order to output your commit history:
+git log
+
+
+In order to push committed changes to a remote server(github):
+git push
+
+In order to show the difference between the file on your local computer and the previous version of the
+file:
+git difftool

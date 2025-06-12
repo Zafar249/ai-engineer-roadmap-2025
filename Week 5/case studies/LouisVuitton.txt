@@ -1,0 +1,55 @@
+Introduction: Case study about how Louis Vuitton grew to dominate it's field under Bernard Arnault
+
+Louis Vuitton spent 17 years mastering his bag making skills under Romain who specialized in making bags.
+
+In 1853 Louis met the empress of France, wife of Napoleon the third.
+He was so close to her that he became her personal packer for designing and transporting her luggages.
+
+He became a renowned craftsmen and designer in France so to capitalize on his fame he started on his own
+workshop which specialized in designing bags for the richest people in France.
+
+1. Problem: Bags were made with pig skin. Although they were durable, they were heavy and would crack
+after a certain point
+
+2. Problem: Bags traditionally had dome-shaped tops. If mud or rain fell on the bags it would just roll
+off the bags. However steam engines were becoming more common and people travelling by train did not have
+to worry about rain or mud. Additionally, they were not suitable for stacking on top of each other
+
+3. Problem: Bags were not very water tight. They would absorb water, ruining the clothes.
+
+Solution: The Steamer trunk was water tight, light, and suitable for trains. It had a flat top and was
+made with a canvas material with a glue based treatment. It was made with popular wood with metal buckles
+making bag elegant as well.
+
+4. Problem: Louis Vuitton's home and workshop was destroyed in the Franco-Prussian war of 1871.
+Solution: He set up a new shop called Opera near the Paris Railway Station and close to the largest and
+most luxurious hotel in Europe.
+
+5. Problem: Fake and Cheap copycats emerged threatening Luios' brand.
+Solution: His son led the differentiation phase.
+
+6. Problem: Travel time between cities was too long and people carried jewellery, cash and important
+papers. As a result theft became a very big Problem
+Solution: They designed the unpickable lock which was so good that no thief in France could open it.
+They even challenged Harry Houdini, the famous magician and escape artist to open it. 
+Outcome: Houdini neveraccepted the challenge so their locks became the best in the market.
+
+7. Problem: While travelling, dirty and clean clothes could touch each other or shoes and shirts could
+touch each other resulting in shirt becoming dirty.
+Solution: George Vuitton segregated the luggage by designing multiple compartments in a bag.
+
+8. Problem: With the automobile era, the bags designed for trains would no longer be suitable for cars.
+Solution: George Vuitton designed a specialized trunk fors cars that could fit in everything from mirrors
+to perfumes to glasses.
+
+9. If you can't do great things do simple things in a great way(Louis made great bags that were best in 
+the market)
+
+10. Innovation stems from the act of stepping out of habituation(Louis and George designed bags with
+features that solved customer problems even customers didn't know about)
+
+11. Good is Imperative, but Greatness is a difficult choice(Louis and George provided great services
+and quality again and again)
+
+Lesson: Innovate your AI models. Think about potential problems users might face and how you can resolve
+them. Identify difficulties and fix them beforehand. TThink outside the box.

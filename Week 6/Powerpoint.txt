@@ -1,0 +1,16 @@
+1. Use only one message per slide
+
+2. Use PowerPoint as it is supposed to be: short text with an image.
+Due to the redundancy effect, a human brain will process zero information simultaneously trying to read 
+and hear at the same time. Avoid using long sentences in a powerpoint.
+
+3. The most important part of the PowerPoint should be the biggest to draw attention to it.
+
+4. Improve your contrast to bring focus to it. Brighten the important words and darken the rest. 
+Use a black background too focus attention on yourself during a presentation
+
+5. Use six objects in a Powerpoint. Don't use 7 objects or more as it requires 500% more cognitive
+brain resources and memory.
+
+The number of slides in a powerpoint doesn't matter. It is the number of objects used per slide ia a 
+powerpoint that matters.

@@ -1,0 +1,17 @@
+Inorder to undo your uncommitted changes to a specific file: 
+git checkout -- {filename(e.g: test.py)}
+
+Inorder to undo your uncommitted changes to all files:
+git checkout -- .
+
+Inorder to undo comitted changes:
+git revert {commit id}
+
+Inorder to quit the ui after reverting a commit:
+:q
+
+Inorder to revert a change but not uncommit it:
+git revert -n {commit id}
+
+Inorder to reset commit history back to a certain point:
+git reset --hard {commit id}

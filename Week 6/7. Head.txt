@@ -1,0 +1,24 @@
+Head is a reference to the most recent commit in the current,active, branch (in most cases).
+
+When Head doesn't point to the most recent commit, you go into detached Head state. 
+
+Inorder to show the Head commit:
+git show HEAD
+
+Inorder to show a commit:
+git show {commit id}
+
+Inorder to show difference between two commits:
+git difftool {older commit id} {newer commit id}
+
+Inorder to show a commit n commits from the Head:
+git show HEAD~n
+
+e.g: To show a commit 1 commit from the HEAD:
+git show HEAD~1
+
+Inorder to go into detached Head state:
+git checkout {older commit id}
+
+note: Inorder to return to normal Head state:
+git checkout main

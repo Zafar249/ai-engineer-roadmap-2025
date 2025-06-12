@@ -1,0 +1,5 @@
+Inorder to create a .gitignore file:
+touch .gitignore
+
+note: After creating the file put the name of the file/folder you want to ignore in the .gitignore file
+note: You can use hashtags(#) as comments in .gitignore files

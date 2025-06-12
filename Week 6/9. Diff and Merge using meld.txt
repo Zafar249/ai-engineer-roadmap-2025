@@ -1,0 +1,12 @@
+Inorder to show difference between two commits:
+git difftool origin/main
+
+Inorder to launch a specific difftool:
+git difftool -t {tool name}
+
+Inorder to launch a merge tool to resolve conflicts:
+git mergetool
+
+note: In difftool local file is on right and upstream file is on left
+note: In mergetool local file is on left, upstream file is on right and file with merged changes is in 
+center.

@@ -1,0 +1,23 @@
+
+
+SELECT *
+FROM sales_associates
+WHERE salary > 
+   (SELECT AVG(revenue_generated)
+    FROM sales_associates);
+
+
+SELECT *
+FROM employees
+WHERE salary > 
+   (SELECT AVG(revenue_generated)
+    FROM employees AS dept_employees
+    WHERE dept_employees.department = employees.department);
+
+
+Select query with subquery constraint
+SELECT *, …
+FROM mytable
+WHERE column
+    IN/NOT IN (SELECT another_column
+               FROM another_table);

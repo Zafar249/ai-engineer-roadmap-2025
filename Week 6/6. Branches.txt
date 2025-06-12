@@ -1,0 +1,36 @@
+If you are making experimental changes and want to preserve the original code. Git allows you to run code
+parallely on two branches. Once you are done with experimenting the code, you can merge the two branches.
+
+master(main) is a default branch in git.
+
+In order to output a list of all current branches:
+git branch
+
+In order to create a new branch:
+git branch {branch name}
+
+In order to make a branch active:
+git checkout {branch name}
+
+In order to merge two branches:
+git merge {branch name}
+
+Note: git merge merges the {branch name} into the active branch. Before using git merge make sure your
+main branch is currently active.
+
+In order to save a commit message after merging two branches:
+:wq
+
+In order to push a side branch upstream(to github):
+git push --set-upstream origin {branch name}
+
+In order to create a branch and make it active simultaneously:
+git checkout -b {branch name}
+
+note: -b means branch
+
+In order to delete a branch:
+git branch -d {branch name}
+
+note: The branch to be deleted must not be the active branch
+note: -d means delete

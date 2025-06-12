@@ -1,0 +1,6 @@
+On github an owner of a repository can share his code with others.
+A person can modify the code and send a request to the owner to pull/merge his changes to the
+repository. This request is called a pull request.
+
+Pull request promots collaboration by allowing conversations between contributors and owners regarding
+code changes.

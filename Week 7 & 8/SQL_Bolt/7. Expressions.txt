@@ -1,0 +1,12 @@
+
+
+Select query with expression aliases
+SELECT col_expression AS expr_description, …
+FROM mytable;
+
+
+Example query with both column and table name aliases
+SELECT column AS better_column_name, …
+FROM a_long_widgets_table_name AS mywidgets
+INNER JOIN widget_sales
+  ON mywidgets.id = widget_sales.widget_id;
