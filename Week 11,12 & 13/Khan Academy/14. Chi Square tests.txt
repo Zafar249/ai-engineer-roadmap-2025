@@ -1,0 +1,31 @@
+Chi-Square Distribution is the distribution of a sum of the squares of independent random normal 
+variables.
+
+Q = X1 ** 2 + X2 ** 2
+
+Q ~ X2(chi) ** 2
+
+The degree of freedom is equal to the number of the independent random normal variables used to calculate
+Q. For n data points, the degree of freedom is n-1
+
+The higher the degree of freedom, the more symmetric the distribution gets, as the peak moves lower and
+to the right.
+
+The chi-square distribution is always positive.
+
+The chi-square statistic is calculated by adding up the square of the normalised variables.
+
+In order to normalise: (Expected-Observed)  ** 2 / Expected
+
+Pearson's chi-square test says that if the chi-square statistic is greater than the critical chi-square
+value, we reject the null hypothesis.
+
+A contingency table is a type of table in matrix format that displays the multivariate frequency
+distribution of the variables.
+
+The degree if a freedom for a contingency freedom is: df = (row-1)(col-1)
+
+Homoginiety is similarity between two tables
+
+The expected values for two variables which are associated is the product of row percent * col percent
+* total

@@ -1,0 +1,24 @@
+A sample proportion is the ratio of a subset of elements with a particular characteristic compared to the
+total number of elements in the sample.
+
+The mean of a sample proportion over a sampling distribution is P
+
+The standard deviation of a sample proportion over a sampling distribution is (pq/n) ** 1/2
+
+Sample size is the number of samples in a sample set.
+
+The central limit theorem states that as the sample size approaches infinity,
+the sampling distribution of the mean approaches normal distribution
+
+If we take the mean of a bunch of actions and plot the frequency of those means,
+we approach the normal distribution
+
+skew tells how skewed from the mean a normal distribution is. Positive is rightly skewed and negative
+id left skewed
+
+kurtosis indicates the standard deviation from the mean. Positive kurtosis means peak is more taller
+but base is less wide. Negative kurtosis means peak is lower but base is wider.
+
+The variance of your sampling distribution of the mean is variance of original data / n
+The standard deviation of the sampling distribution of the mean is also called the standard error 
+of the mean

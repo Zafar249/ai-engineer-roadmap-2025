@@ -1,0 +1,10 @@
+In order to show all collections within a database:
+show collections
+
+In order to create a collection of specified max length and size:
+db.createCollection({name},{capped:True, size:{size}, max:{max number of documents}, {autoIndexId:false}})
+
+autoIndexId automatically applies indexes to object ID's.
+
+In order to drop a collection:
+db.{collection name}.drop()

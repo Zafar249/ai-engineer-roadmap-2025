@@ -1,0 +1,27 @@
+Correlation Coefficient meausres the correlation of a linear relationship:
+
+Formula of correlation oefficient: r= (1/n-1) * sum of [(z-score of x[i])(z-score of y[i])]
+
+Linear Regression is using a line to summarize a relationship and make predicitons about the data
+
+Residual is the difference in height between the actual point and the point predicted by the line.
+
+Least square regression minimizes the sum of the squares of the residual by changing the values of 
+gradient and y-intercept.
+
+minimize(sum of(r[n] ** 2)) by changing m and b
+
+m = r(s.d of y / s.d of x)
+b can be calculated using the point (mean of x, mean of y)
+
+Total Squared Error: sum of (y[i] - (mx[i] + b))
+
+Coefficient of determination: r**2 = 1 - (squared error of line / squared error of mean of y)
+What % of the total variance in y is described by the variation in x
+
+Root-mean-square error/ Standard deviation of residuals = (sum of square of residuals / n-1) ** 1/2
+
+covariance of (x,y) = mean of [(x - mean of x)(y - mean of y)]
+Sign tells the direction y takes when x goes up and Magnitude tells the degree that y takes.
+
+gradient of regression line = Cov(X,Y) / Cov(X,X) i.e Var(X)

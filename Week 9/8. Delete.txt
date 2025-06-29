@@ -1,0 +1,5 @@
+In order to delete a document:
+db.{collection name}.deleteOne({filter})
+
+In order to delete many documents:
+db.{collection name}.deleteMany({filter})

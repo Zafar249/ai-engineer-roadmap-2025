@@ -1,0 +1,21 @@
+The null hypothesis states that there is no difference  between two groups being compared
+
+The alternative hypothesis states that there is a significant difference between two groups being
+compared.
+
+significance level(alhpa) represents the threshold at which the null hypothesis is disproven or the 
+alternative hypothesis is proven
+
+p-value is the statistic that the sample mean is greater than the mean given that the null hypothesis
+is true.
+
+if our p-value is less than the significance level we reject the null hypothesis
+
+Type 1 Error is if our null hypothesis is true but we reject it. The probability of a tpye 1 error is
+the significance level
+
+Type 2 Error is if our null hypothesis is false but we fail to reject it.
+
+Power is the probability of rejecting the null hypothesis given that it is false
+
+Alternatvely Power is 1 - the probability of a type 2 error

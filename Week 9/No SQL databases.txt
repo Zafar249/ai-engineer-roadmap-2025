@@ -1,0 +1,29 @@
+Relational Databases have data consistency by mantaining relationships between different tables.
+
+They have to mantain those relationships making them hard to scale and resource intensive requiring
+memory and compute power. 
+
+Relational Databases can scale vertically but not horizontally while No SQL databases can scale both ways.
+
+No SQL databases store items in the form of a key value pair where each item is its own seperate entity.
+
+You can split your data, or your queries, across two or more servers to reduce the workload per server.
+Each server is called a partition
+
+NoSQL databases store items using primary keys. 
+They are converted to a hash using a hash function which fall into a fixed range.
+After adding a second server, the range is split in half and the capacity is doubled.
+This range is called a keyspace.
+
+NoSQL databases are schemaless. Different items can have different structures.
+In a relational database you have to define your table's structure and each item must conform to it.
+
+NoSQL databases are more limited in the ways you can retrieve your data.
+
+Eventually NoSQL databases will be consistent. Each partition mirrors your data across multiple servers.
+That way a server can go down without much impact. This process takes a little bit of time so you cannot
+read back the data you just entered.
+
+Examples of NoSQL are: DynamoDB, BigTable, CosmosDB, Cassandra, MongoDB and Scylla.
+
+NoSQL means Not Only SQL, as some NoSQL databases can partially understand SQL queries on top of their own queries. It can also mean non-relational as NoSQL can easily store non-relational data.

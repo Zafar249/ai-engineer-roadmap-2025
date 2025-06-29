@@ -1,0 +1,13 @@
+In order to view the execution stats of a query:
+db.{collection name}.find({filter}).explain("executionStats")
+
+In order to apply an Index to a field:
+db.{collection name}.createIndex({field:value})
+If value is 1, fields are arranged in ascending order.
+If value is -1, fields are arranged in descending order.
+
+In order to get all the indexes within a collection:
+db.{collection name}.getIndexes()
+
+In order to drop an Index:
+db.{collection name}.dropIndex({index name})

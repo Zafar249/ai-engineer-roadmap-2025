@@ -1,0 +1,15 @@
+A confidence interval is a range of values that is likely to contain the true value of a population 
+parameter.
+
+A margin of error expresses the amount of random sampling error in a survey's result.
+
+The critical value z* is the number of standard deviations we want to go above or below our mean value.
+
+If we don't know the actual standard deviation of our population mean, we can use the t-statistic:
+mean of x +- t* (sample standard deviation/(n ** 1/2))
+
+Degree of freedom is sample size - 1
+
+The tail probability is half of 1 - the confidence interval
+
+A sampling distribution has fatter tails because we are underestimating the standard deviation.

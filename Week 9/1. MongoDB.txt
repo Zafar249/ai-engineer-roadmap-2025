@@ -1,0 +1,14 @@
+Mongo DB is a NoSQL database management system that can manage a huge amount of data.
+Data in NoSQL is stored in field value pairs.
+A document is a collection of field value pairs to reperesent an object.
+A collection is a group of one or more documents.
+A database is a group of one or more collections.
+
+Inorder to clear the terminal:
+cls 
+
+Inorder to exit the terminal:
+exit
+
+Inorder to establish a connection:
+Mongosh

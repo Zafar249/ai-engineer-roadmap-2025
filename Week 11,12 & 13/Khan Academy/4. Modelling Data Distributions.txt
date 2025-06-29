@@ -1,0 +1,8 @@
+z-score: how many standard deviations is a value from the mean
+Alternatively, standardize the value
+
+Empirical rule: Within one standard deviation of the mean the total area is 68%, within two 95%
+and within three 99.7%
+
+The formula of normal distribution is: p(x) = 1/ [(2*pi*(sigma**2) * (e ** z) ) ** 1/2]
+where z is the z-score.

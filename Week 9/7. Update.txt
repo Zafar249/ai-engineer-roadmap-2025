@@ -1,0 +1,16 @@
+In order to update a document:
+db.{collection name}.updateOne({filter}, {update})
+
+filter is the selection criteria
+Always filter by the Object ID as it is unique to each document.
+update : { $set :{field to add/update}}
+update modifies the document
+
+In order to remove a field:
+update: {$unset: {field to remove:""}}
+
+In order to update many documents:
+db.{collection name}.updateMany({filter}, {update})
+
+In order to check if a field doesn't exist:
+{field to check}: {$exists:false}

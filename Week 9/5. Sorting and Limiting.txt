@@ -1,0 +1,7 @@
+In order to sort and return all documents within a collection:
+db.{collection name}.find().sort({ {field name}:{arg} })
+If arg is 1, field is returned in ascending order.
+If arg is -1, field is returned in descending order
+
+In order to limit the number of documents returned:
+db.{collection name}.find().limit({number of documents returned})

@@ -1,0 +1,14 @@
+Inorder to show all current databases:
+show dbs
+
+Inorder to use a database:
+use {database name}
+
+Inorder to create a database:
+use {database name}
+
+Inorder to create a collection in a database:
+db.createCollection({name of collection})
+
+Inorder to drop the currently active database:
+db.dropDatabase()

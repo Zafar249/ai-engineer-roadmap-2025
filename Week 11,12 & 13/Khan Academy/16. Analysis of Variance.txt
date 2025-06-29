@@ -1,0 +1,27 @@
+SST is the total sum of squares. It is calculated by subtracting the value from the mean of the entire
+dataset and squaring the result.
+
+Each result is summed up and divided by the degree of freedoms (row * col - 1)
+
+SSW is the total sum of squares within a group. It is calculated by subtracting the value from the mean
+of the group and squaring the result.
+
+Each result is summed up and divided by the degree of freedom (row * (col - 1))
+
+SSB is the total sum of squares between each group. It is calculated by subtracting the mean of the group
+from the mean of the entire dataset and squaring the result. 
+
+Each result is repeated for each value in a group for each group and divided by the degree of 
+freedom: (row - 1)
+
+Degree of freedom of SSB + Degree of freedom of SSW = Degree of freedom of SST
+
+The total variance of the dataset is equal to the sum of the variance of means within a group and 
+between a group
+
+F-statistic is the ratio of two chi-squared distributions that have different degrees of freedoms.
+
+F-statistic = (SSB / degree of freedom)/(SSW / degree of freedom)
+
+If it is greater than 1, we reject the null hypothesis, as the variance between the groups is
+greater than the variance within a group

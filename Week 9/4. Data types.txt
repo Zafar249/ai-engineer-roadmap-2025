@@ -1,0 +1,13 @@
+MongoDB has the following data types:
+string
+integer
+double
+boolean
+date 
+null
+array
+nested documents
+
+In order to create a date object:
+new Date("YYYY-DD-MMTHH:MM:SS")
+Note: If no arguments are passed to the Date function, the current time in the UTC time zone is used.

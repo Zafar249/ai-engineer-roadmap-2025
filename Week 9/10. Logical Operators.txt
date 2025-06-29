@@ -1,0 +1,11 @@
+Logical operators return data based on boolean expressions
+
+$and : Checks if two expressions are true
+
+$or : Checks if at least one expression is true
+
+$nor : Checks if both expressions are false
+
+$not : Reverses the expressions
+
+The not operator can return null values

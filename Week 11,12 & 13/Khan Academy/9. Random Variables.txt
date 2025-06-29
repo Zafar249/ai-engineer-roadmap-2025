@@ -1,0 +1,10 @@
+10% rule: If the sample is less than or equal to 10% of the population it can be assumed to be
+approximately independent.
+
+Law of Large Numbers:
+The mean of a set of numbers approaches the expected values of x, as n approaches infinity.     
+For flipping a coin, the mean of a number of trials approaches 0.5, as n approaches infinity.   
+
+For Poission Distribution: P(X=k) = (lambda/k!) * e ** lambda
+
+A bernoulli random variable can only take two possible values, representing a success and a failure.

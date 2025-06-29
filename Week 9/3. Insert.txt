@@ -1,0 +1,9 @@
+Inorder to insert a document into the database
+db.{collection name}.insrtOne({data})
+If collection doesn't exist it will automatically be created.
+
+Inorder to return all the documents within a collection:
+db.{collection name}.find()
+
+In order to insert multiple documents into the database:
+db.{collection name}.insertMany([{data1},{data2}])

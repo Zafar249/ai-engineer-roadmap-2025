@@ -1,0 +1,18 @@
+Inferences can be made about the true population regression line by using the sample population
+regression line and estimating a confidence interval.
+
+Using the slope of the sample regression line y=a+bx
+
+b +- t* SE[b] (standard error or standard deviation of sample / (n ** 1/2))
+
+A null hypothesis can state that the slope of the population regression line is 0
+meaning there is no non-zero linear relationship between the two variables.
+
+Conditions for Inference are:
+Linear- There is a linear relationship between the two variables.
+Independence- Sampling with replacement or the sample is 10% of the population
+Normal- For any value of x, the distribution of the values of y should be normal.
+Equal Variance- Each distribution of y should have the same variances
+Random
+
+Degree of freedom is equal to number of data points - 2

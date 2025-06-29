@@ -1,0 +1,8 @@
+Identifying individuals, variables and categorical variables in a dataset.
+
+individuals in a dataset are a row of the data.
+variables in a dataset are a column of the data.
+categorical variables are variables which can take on values that are labels or categories
+quantitative variables take on numerical values
+
+midrange id the mean of your highest and lowest scores

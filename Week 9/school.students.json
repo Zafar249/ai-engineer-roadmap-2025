@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "684e493f077f16e71550eb68"
+  },
+  "name": "Maarij",
+  "age": 19,
+  "gpa": 4,
+  "fulltime": false
+},
+{
+  "_id": {
+    "$oid": "684e493f077f16e71550eb69"
+  },
+  "name": "Soman",
+  "age": 17,
+  "gpa": 3,
+  "fulltime": true
+},
+{
+  "_id": {
+    "$oid": "684e493f077f16e71550eb6a"
+  },
+  "name": "Ashmal",
+  "age": 16,
+  "gpa": 3.5,
+  "fulltime": false
+},
+{
+  "_id": {
+    "$oid": "6850e8db632729999850eb68"
+  },
+  "name": "Noor",
+  "age": 18,
+  "gpa": 3.6,
+  "fulltime": false,
+  "registerDate": {
+    "$date": "2025-06-17T04:02:35.277Z"
+  },
+  "graduationDate": null,
+  "courses": [
+    "Math",
+    "Computer Science",
+    "Physics"
+  ],
+  "address": {
+    "street": "123 Fake Street",
+    "city": "Lahore",
+    "zip": 54000
+  }
+}]

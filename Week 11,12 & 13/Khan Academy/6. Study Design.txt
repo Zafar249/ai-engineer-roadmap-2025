@@ -1,0 +1,31 @@
+Simple Random Sample is a completely random sample of the population
+In Startified Random Sample, the population is divided into multiple categories. A random sample is taken
+from each category.
+In Clustered Random Sample, the population is divided into clusters. A random sample is taken from a 
+cluster.
+In Systematic Random Sample, a random sample is chosen and nth samples after the random sample are 
+counted.
+
+In a Sample Study you study a small sample of the population to learn about a parameter
+
+In an Observational Study, you study how two parameter's correlates
+
+In an Experiment you try to prove causality.
+
+Explanatory variables explain changes in other variables
+ 
+Response variables measure the result of a study
+
+In a blind experiment the people in the sample don't know which group they are in
+In a double-blind experiment, the people and the physicians don't know which group they are in.
+
+A confounder variable affects both the dependent and the independent variable
+
+In a comparative experiment, the researcher measures the effects of different conditions on a single 
+variable.
+
+In a block design, people are split into groups(men and women). Samples are then taken from each 
+individual group.
+
+In a matched pair design people are grouped into pairs based on similar characteristics before being
+split into control and experiment groups. 

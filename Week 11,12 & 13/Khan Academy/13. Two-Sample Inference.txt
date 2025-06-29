@@ -1,0 +1,2 @@
+When comparing two samples, their variances are always added. The means are subtracted if the difference
+is taken and added if both samples are added.

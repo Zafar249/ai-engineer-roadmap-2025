@@ -1,0 +1,7 @@
+In order to find a particular document
+db.{collection name}.find({query}, {projection})
+
+For query: {field name}:{value}
+query is used to search for a particular document
+For projection: {field name}: true (or false)
+projection returns specified fields
